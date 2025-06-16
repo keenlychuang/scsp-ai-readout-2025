@@ -243,7 +243,3 @@ TwelveLabs, Industrial Technology Research Institute, NEDO, Hitachi, Emzo Consul
 **Chris Wright,** Secretary, US Department of Energy 
 
 [Energy Notes](SCSP%20AI+%20Expo%202025%20Readout%202066253e11ab801fb89be76f4996dc67/Energy%20Notes%202086253e11ab80a8a758ed6acfe44d33.md)
-
-### Hong Kong
-
-208AB
