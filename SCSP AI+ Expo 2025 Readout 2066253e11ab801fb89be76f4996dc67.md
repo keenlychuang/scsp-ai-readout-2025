@@ -1,9 +1,5 @@
 # SCSP AI+ Expo 2025 Readout
 
-# Table of Contents
-
-- Toggle Here
-
 ## About the Expo
 
 - The Special Competitive Studies Project (SCSP) is a non-partisan think tank focused on technology in national security, and was formed to continue the work of the National Security Commission on Artificial Intelligence (NSCAI) in 2021. It was founded by former Google CEO Eric Schmidt, and the current president and CEO is Ylli Bajraktari, the former director of the NSCAI. The ai+ expo took place from June 2nd to June 4th at the Walter E. Washington Convention Center.  It hosted partners from the US Government and industry, from the military to national labs to frontier AI companies to startups focusing on niche topics and applications.
