@@ -1,0 +1,23 @@
+# Energy Notes
+
+- energy powers everything. More opportunities. Only a few ways to produce energy, and how do we make it cheap?
+- How do we roll out our energy agenda? Capitalism. Allow market forces to drive progress. Otherwise, how do we break down barriers for others?
+    - Special case: nuclear. It was slow and we want to restart it
+- AI? it’s just the next energy intensive manufacturing center. The science, the energy, the manufacturing all have to come together. Ex: OAI visiting national labs
+- national labs focus on basic science, they don’t have to have immediate commercial applications. That’s where the government should be investing, where private won’t be funding.
+    - Mention of the second manhattan project.
+        - It is imperative that we are not second. The same thing with AI
+- “If we continue the policy of the last administration” we will not be able to support the current AI efforts from an energy standpoint.
+- Nothing standing in the way of having private collaborate with labs.
+- Academic institutions don’t work at the scale of the national labs, in terms of facilities.
+- SCSP is a big believer in fusion. Investments in all area
+- China
+    - We need to step up in fusion or risk being left behind.
+    - We have energy advantages, but we can’t get complacent. The US is the biggest natural gas exporter, China is the biggest importer.
+- Regulations for nuclear here make progress inherently slower than in China.
+- We are fans of subsidizing emerging technologies, the big beautiful bill includes it for nuclear
+- ManufacTuring is half of energy usage.  25 exa-joules used in US, 70 in China
+- Upgrading infrastructure? We are in a different world, the old infrastructure system is not up to par.
+- Wind and solar are not performing. He deceives them as parasites.
+- Energy enables everything
+- The department of energy is an amazing speaker.

@@ -1,0 +1,21 @@
+# Army of the Future
+
+- Personal take on the changing characteristics of war: Ukrainian attack on Russia, great example of changing warfare (drones, russian bombers got “smoked”). Examples everywhere. Army is trying to adapt processes constantly.
+- “You can’t really hide anymore on a modern battlefield”
+- Constantly updating “cost curve”.
+- South Carolina Basic Training: drone debriefing, recorded drone footage for replay analysis. Sometimes, new recruits/soldiers are teaching the older drill sergeants.
+- Army Transformation Initiative: take the practices of industry and partner with industry. Stop buying things you don’t need or don’t want. Cuts are hard, but they need to happen. Shoutout Pete Hegseth. “We are going to cut half of our business systems”.
+    - Ex: hundreds of humvees that get bought because the budget never gets changes.
+    - Ex: giving away the right-to-repair. Must be modular, open system architecture.
+    - Ex: too many people, too top heavy. 1000 people getting lost from headquarters
+- Private industry connections: Applied Intuition (talk to Sergio about his work ) Innovation cycles, since the Pentagon comes into mid-size startups and give them funding. You have 10 days to do “anything you want”. Within 3 days after that, drones in the hands of soldiers.
+- SCSP: The army should be the innovation engine of the Pentagon
+    - Software like tanks. Modular, constantly updating. Don’t make it just look like the things of the past.
+- Integrated Data Layer: Silo’ed software systems got changed with recent Army Recruiting Command. Salesforce is the new version. Everyone loves the new one, another example of integrating private. Soldiers lives are better, things more more smoothly, lets them get back onto the field.
+- Meta Ray Ban glasses are also in sight. They’re “not exactly sure how they’ll help the war figher”, but the army bought them anyway. “Reasonably low-cost experiment”.
+    - Augmented reality training.
+- Walmart, Amazon, Army. Three largest operations in America.
+- Funding: previously, “buckets” for things like weapons, wheeled vehicles. They would let people spend those buckets how they need to, which allowed some flexibility.
+    - There were 11 buckets originally, but today is over 1400 buckets. People wanted to have more “control” over the budget for “slightly nefarious purposes”.
+        - Shoutout to Trump and Hegseth
+    - Adoption (industry) Modify (commercially)
